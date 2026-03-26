@@ -1,5 +1,5 @@
 # Ex.No:4(B)  IMPLEMENT SOLID PRINCIPLES IN JAVA PROGRAM 
-
+ 
 ## QUESTION:
 At an international airport, only one Radar Control Tower exists. This tower is responsible for handling all flight communications regardless of how many flights are coming in. Each incoming flight must contact this tower to register its approach.
 
